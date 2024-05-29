@@ -13,7 +13,7 @@ CLI Quizzer is a command-line interface application that allows users to take qu
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cli-quizzer.git
+    git clone https://github.com/notbaro/cli-quizzer.git
     ```
 
 2. Install the dependencies:
